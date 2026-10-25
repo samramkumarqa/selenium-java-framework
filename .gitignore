@@ -1,0 +1,19 @@
+# Build output and reports
+target/
+test-output/
+
+# Secrets: never commit Google keys or OAuth tokens
+*.json.key
+service-account*.json
+credentials*.json
+tokens/
+.env
+
+# IDE / OS
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store

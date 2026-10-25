@@ -1,0 +1,6 @@
+[
+  { "id": "PUR-01", "searchTerm": "Blue Top",  "productName": "Blue Top",      "quantity": 2, "run": true },
+  { "id": "PUR-02", "searchTerm": "Tshirt",    "productName": "Men Tshirt",    "quantity": 1, "run": true },
+  { "id": "PUR-03", "searchTerm": "dress",     "productName": "Stylish Dress", "quantity": 3, "run": true },
+  { "id": "PUR-04", "searchTerm": "jeans",     "productName": "Soft Stretch Jeans", "quantity": 1, "run": false }
+]
